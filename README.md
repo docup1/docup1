@@ -1,4 +1,4 @@
-# Привет, я Docup1! 👋
+# Привет, я Олег Хайцын! 👋
 
 Добро пожаловать на мой профиль! Я создаю цифровые продукты и активно развиваюсь в области технологий.
 
@@ -12,4 +12,5 @@
 
 ## 📫 Контакты
 - 📧 **Email:** [haitsynoleg@yandex.by](mailto:haitsynoleg@yandex.by)
-- 💼 **Telegram:** [Zirkon]([zirkonpw](https://t.me/+4NOM2rxMxxY5Nzg6))
+- 💼 **Telegram:** [Zirkon](https://t.me/+4NOM2rxMxxY5Nzg6)
+
