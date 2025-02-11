@@ -5,8 +5,9 @@
 ---
 
 ## 📊 Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=docup1&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docup1&layout=compact&theme=radical)
+## 📊 Статистика GitHub  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=docup1&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docup1&layout=compact&theme=radical&hide_title=true)
+
 
 ---
 
