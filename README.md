@@ -28,6 +28,3 @@
 - 📧 Email: [haitsynoleg@yandex.by](mailto:haitsynoleg@yandex.by)
 - 💬 Telegram: [@Zirkon](https://t.me/+4NOM2rxMxxY5Nzg6)
 
----
-
-⭐️ *Если проекты понравятся — поддержите звёздочкой!*
