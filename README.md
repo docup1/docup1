@@ -15,10 +15,6 @@
 
 ## 📊 GitHub Статистика
 
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=docup1&theme=radical&hide_border=true)
-
-### 📈 Summary Cards
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=docup1&theme=radical)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=docup1&theme=radical)
 
